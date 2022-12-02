@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 
 export class HomeComponent {
   constructor() {}
+
+  onUploadStarted(event: any) {
+
+  }
+
+  onUploadProgress(event: any) {
+    
+  }
 }
